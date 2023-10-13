@@ -26,3 +26,7 @@ Give a command git rm -rf filename (example git rm -rf test.exe) and add the lin
 test.exe
 <br>
 To .gitignore
+
+## VS Code Git Client
+
+There is also a Git Client in VS Code
