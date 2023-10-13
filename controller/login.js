@@ -1,0 +1,1 @@
+this gets data from login_model and sends it to login_view
