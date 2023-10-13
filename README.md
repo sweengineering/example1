@@ -19,3 +19,10 @@ Good way to work in a team is that nobody push directly to main. Instead they ma
 Then somebody else (or the team) will check the feature and either accept and deny the new version. If they accept, they Merge the branch to main.
 
 Then everyone in the Team will Pull the latest version of main.
+
+## Remove file from Repo 
+
+Give a command git rm -rf filename (example git rm -rf test.exe) and add the line <br>
+test.exe
+<br>
+To .gitignore
